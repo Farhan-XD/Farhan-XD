@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Farhan-XD</h1>
+<h1 align="center">Hi 🥸‘‹, I'm Farhan-XD</h1>
 <h3 align="center">A incredible mystery of github world's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Farhan-XD&label=Profile%20views&color=0e75b6&style=flat" alt="Farhan-XD" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theyounglord" target="blank"><img src="https://img.shields.io/twitter/follow/theyounglord?logo=twitter&style=for-the-badge" alt="theyounglord" /></a> </p>
 
-- Iâ€™m currently working on Moddroid [Moddroid](https://moddroid.co/)
+- I'm currently working on Moddroid [Moddroid](https://moddroid.co/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
