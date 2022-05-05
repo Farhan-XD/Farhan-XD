@@ -1,5 +1,6 @@
 <img src="https://github.com/Farhan-XD/Farhan-XD/blob/aed36ffbf251995779c28b325189106715a71d66/Images%20;v/Farhan.jpg" width="120" height="120" align="left">
-<h1 align="right">𝙷𝚎𝚕𝚕𝚘 𝙼𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛𝚜 :𝚟</h1>
+<center>
+<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝙼𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛𝚜 :𝚟</h1>
 <h3 align="center">𝙰 𝚒𝚗𝚌𝚛𝚎𝚍𝚒𝚋𝚕𝚎 𝚖𝚢𝚜𝚝𝚛𝚎𝚢 𝚘𝚏 𝚐𝚒𝚝𝚑𝚞𝚋'𝚜 𝚠𝚘𝚛𝚕𝚍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Farhan-XD&label=Profile%20views&color=0e75b6&style=flat" alt="Farhan-XD" /> </p>
