@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F728&background=000000&center=true&vCenter=true&multiline=true&width=500&height=112&lines=Assalam+O+Alaikum+All+%3A*;Welcome+To+Farhan-XD+world+%3AP;print+(%E2%80%9CNever+tell+everything+you+know%E2%80%A6%E2%80%9D))](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=jmbf&color=green)
 <img src="https://github.com/Farhan-XD/Farhan-XD/blob/aed36ffbf251995779c28b325189106715a71d66/Images%20;v/Farhan.jpg" width="120" height="120" align="left">
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝙼𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛𝚜 :𝚟</h1>
@@ -22,3 +23,5 @@
 - [**𝙼𝚞𝚓𝚝𝚊𝚋𝚊 𝙺𝚑𝚊𝚗 𝙼𝙺**](https://github.com/itz-MK-302)
 - [**𝚂𝚑𝚊𝚑𝚣𝚊𝚒𝚗 𝚂𝙳𝙹**](https://github.com/SHAHZAIN-SDJ)
 - [**𝙵𝚊𝚛𝚑𝚊𝚗-𝚇𝙳**](https://github.com/Farhan-XD)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F728&background=000000&center=true&vCenter=true&lines=rm+-rf+%2Fall%2Fmadarchod%2Flough)](https://git.io/typing-svg)
